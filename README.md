@@ -21,7 +21,7 @@ Il s'agit d'une application web dynamique permettant d'interroger l'API distante
 * **Bonus réalisés** :
   * Sélection de la catégorie via des boutons radio et des cases à cocher personnalisées (Programming, Misc, Dark, Pun, Spooky, Christmas).
   * Persistance des données et synchronisation via l'API `localStorage`.
-
+---
 ### Lien vers le dépôt GitHub :
 
 [https://github.com/egfougeroux/TP2-JokeAPI](https://github.com/egfougeroux/TP2-JokeAPI.git)
